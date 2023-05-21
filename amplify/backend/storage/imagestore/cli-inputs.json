@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestore",
+  "policyUUID": "ba51a690",
+  "bucketName": "imagestore-bastian",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
